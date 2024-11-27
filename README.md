@@ -1,5 +1,4 @@
 
-
 # Basic Calculator Program
 
 # Ask the user for the first number
